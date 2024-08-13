@@ -1,0 +1,27 @@
+*
+{
+    box-sizing: border-box;
+}
+.header
+{
+    height:200px;
+    background-color: antiquewhite;
+    display: flex;
+
+}
+.logo img
+{
+    width:100px;
+    height:200px;
+    padding:30px;
+}
+.main
+{
+    height:500px;
+    background-color: aquamarine;
+}
+.footer
+{
+    height:200px;
+    background-color: azure;
+}
